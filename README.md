@@ -2,4 +2,6 @@ A weekly diary to record events reated to the Algorithm Analysis and Design cour
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 "<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">"
 
-![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
+```html
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+```
